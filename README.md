@@ -60,8 +60,7 @@ Once you've added your information to the template, delete this file and rename 
 
 
 ## Sharing your solution
-
-, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
+ We'd love to take a look at what you've built and help share it around.
 3. Share your solution on other social channels like LinkedIn.
 4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
 
