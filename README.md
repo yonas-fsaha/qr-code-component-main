@@ -62,7 +62,6 @@ Once you've added your information to the template, delete this file and rename 
 ## Sharing your solution
 
 
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
 ## Got feedback for us?
 
