@@ -60,6 +60,5 @@ Once you've added your information to the template, delete this file and rename 
 
 
 
- 
 
 **Have fun building!** 🚀
