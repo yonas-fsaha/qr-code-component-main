@@ -27,6 +27,8 @@ body {
     height: calc(100vh-1px);
     margin: 1.25rem;
 }
+
+
 /* main container*/
 .container {
     background-color: var(--white);
