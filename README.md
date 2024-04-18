@@ -44,7 +44,6 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
-- [Netlify]
 
 
 **Have fun building!** 🚀
