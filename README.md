@@ -24,8 +24,7 @@ The designs are in JPG static format. Using JPGs will mean that you'll need to u
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
-There is also a `style-guide.md` file containing the information you'll need, 
-
+There is also a `style-guide.md` 
 ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
