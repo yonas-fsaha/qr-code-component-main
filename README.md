@@ -37,7 +37,6 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
-As mentioned above
 
 
 **Have fun building!** 🚀
