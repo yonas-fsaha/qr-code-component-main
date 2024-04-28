@@ -37,7 +37,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. 
+As mentioned above, there are many ways to host your 
 
 
 **Have fun building!** 🚀
