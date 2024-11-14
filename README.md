@@ -26,4 +26,4 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 ## Building your project
 
-Feel free to use any workflow that you feel comfortable with. 
+Feel free to use any workflow that
