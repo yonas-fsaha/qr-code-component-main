@@ -22,6 +22,6 @@ Your task is to build out the project to the designs inside the `/design` folder
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
 
-You will find all the required assets in the `/images` folder. 
+You will find all the required
 
 
