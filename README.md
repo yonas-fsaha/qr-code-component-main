@@ -17,7 +17,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the designs. 
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a 
 
 The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
