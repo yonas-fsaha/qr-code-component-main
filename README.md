@@ -19,4 +19,4 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your task is to build out the project to the designs inside the `/design` folder. 
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your 
+The designs are in JPG static format. Using JPGs will 
