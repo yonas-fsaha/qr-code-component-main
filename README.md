@@ -10,9 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
-
-You can use any tools you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Your challenge is to build out this QR code component and get So if you've got something you'd like to practice, feel free to give it a go.
 
 
 ## Where to find everything
