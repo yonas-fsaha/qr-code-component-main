@@ -15,5 +15,4 @@ Your challenge is to build out this QR code component and get So if you've got s
 
 ## Where to find everything
 
-Your task is to build out the project to the designs 
 
