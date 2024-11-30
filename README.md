@@ -10,6 +10,6 @@ Thanks for checking out this front-end coding challenge.
 
 ## The challenge
 
-Your challenge is to build out this QR code component 
+Your challenge is to build out this 
 
 
