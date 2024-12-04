@@ -3,8 +3,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end 
-
+Thanks for checking 
 
 
 
