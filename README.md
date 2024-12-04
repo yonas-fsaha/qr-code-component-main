@@ -3,7 +3,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking 
 
 
 
