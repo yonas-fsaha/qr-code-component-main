@@ -80,7 +80,7 @@ The more specific you are with your questions the more likely it is that another
 
 ## Got feedback for us?
 
-We love receiving feedback!
+
 **Have fun building!** 🚀
 
 
