@@ -78,7 +78,7 @@ We provide templates to help you share your solution once you've submitted it on
 
 The more specific you are with your questions the more likely it is that another member of the community
 
-## Got feedback for us?
+
 
 
 **Have fun building!** 🚀
