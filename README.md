@@ -70,7 +70,7 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 There are multiple places you can share your solution:
 
 1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. 
+2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**
 **Have fun building!** 🚀
 
 
